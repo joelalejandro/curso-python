@@ -1,0 +1,1 @@
+Repo con ejercicios y notas del curso de Python brindado por [https://twitter.com/lamagadepython](@lamagadepython).
